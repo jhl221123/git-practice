@@ -1,10 +1,8 @@
 team: Tiger
 
-<<<<<<< HEAD
-coach: Master
-=======
 manager: Conflict1
->>>>>>> conflict-1
+
+coach: Master
 
 members:
 - Thomas
