@@ -1,6 +1,6 @@
 team: Pumas
 
-manager: rebase-changed-already
+manager: rebase-change
 
 members:
 - Ezra
