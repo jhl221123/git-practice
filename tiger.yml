@@ -1,10 +1,6 @@
 team: Tiger
 
-<<<<<<< HEAD
-text: conflict
-=======
-text: already-push
->>>>>>> 2da5c5d35bf540052ce8a5f0d6df3303415f85aa
+text: --no-rebase
 
 manager: COnflict2
 
